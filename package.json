@@ -1,0 +1,15 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "E-commerce website project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wnik",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^7.0.0",
+    "owl.carousel": "^2.2.0"
+  }
+}
