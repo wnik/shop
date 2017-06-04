@@ -870,6 +870,11 @@ a {
 
 	.footer .newsletter p {
 		width: auto;
+		padding: 0;
+	}
+
+	.footer .newsletter .newsletter-btn form input {
+		width: auto;
 	}
 
 	.footer .copyright .container {
